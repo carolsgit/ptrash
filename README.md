@@ -1,4 +1,0 @@
-ptrash
-======
-
-unofficial ptrash repository
